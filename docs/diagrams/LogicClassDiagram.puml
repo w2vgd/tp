@@ -8,6 +8,7 @@ package Logic {
 
 package Parser {
 Interface Parser <<Interface>>
+Class Parser
 Class PocketEstateParser
 Class XYZCommandParser
 Class CliSyntax
@@ -24,6 +25,7 @@ Class "{abstract}\nCommand" as Command
 }
 
 Interface Logic <<Interface>>
+Class Logic
 Class LogicManager
 }
 

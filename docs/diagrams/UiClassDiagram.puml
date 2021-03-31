@@ -6,6 +6,7 @@ skinparam classBackgroundColor UI_COLOR
 
 package UI <<Rectangle>>{
 Interface Ui <<Interface>>
+Class Ui
 Class "{abstract}\nUiPart" as UiPart
 Class UiManager
 Class MainWindow

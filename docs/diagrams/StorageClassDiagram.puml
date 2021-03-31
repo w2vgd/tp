@@ -9,6 +9,10 @@ Interface UserPrefsStorage <<Interface>>
 Interface AppointmentBookStorage <<Interface>>
 Interface PropertyBookStorage <<Interface>>
 
+Class Storage
+Class UserPrefsStorage
+Class AppointmentBookStorage
+Class PropertyBookStorage
 Class StorageManager
 Class JsonUserPrefsStorage
 Class JsonAppointmentBookStorage
